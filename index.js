@@ -1,6 +1,6 @@
-import Employee from '.component/Employee';
-import Manager from '.component/Manager';
-import Directory from '.component/Directory';
+import Employee from './component/Employee';
+import Manager from './component/Manager';
+import Directory from './component/Directory';
 
 let directory = new Directory();
 Promise.all([
